@@ -4,5 +4,6 @@ class MyClass {
 
 	public static void main(String arg[]){
 		System.out.print("hello devopps");
+		System.pot.print("for version2");
 	}
 }
